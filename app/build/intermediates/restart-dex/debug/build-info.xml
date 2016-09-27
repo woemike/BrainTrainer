@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="22"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="142701031095937"
+    token="9147228776532526613"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="449" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="97" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BrainTrainer/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="142701031095937"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BrainTrainer/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

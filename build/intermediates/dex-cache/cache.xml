@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BrainTrainer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a3e2cd6dede513ee97cbba675b5db218e9a68474">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ba85e4ab40c527772df3af169a35d31f0f885f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BrainTrainer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c4357ddce0880a9a80dc1fdfaf97bfc2fb1a15a5">
+        <dex dex="/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cddf5e3796a2c2b98295421c470065fdd59fc38a/classes.dex" />
+    </item>
+
+</items>

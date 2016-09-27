@@ -1,0 +1,7 @@
+#Tue Sep 27 23:38:26 BST 2016
+base.0=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cddf5e3796a2c2b98295421c470065fdd59fc38a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ba85e4ab40c527772df3af169a35d31f0f885f1/classes.dex
+base.1=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5ba85e4ab40c527772df3af169a35d31f0f885f1
+file.0=/Users/JohnMike/Documents/Books/Android/Udemy/The Complete Android Developer Course/BrainTrainer/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cddf5e3796a2c2b98295421c470065fdd59fc38a/classes.dex
